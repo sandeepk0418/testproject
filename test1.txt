@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F03A-D843
+
+ Directory of C:\Users\Sandeep\Desktop\Learning\Git\MyProject
+
+28-Apr-22  07:46 PM    <DIR>          .
+28-Apr-22  07:46 PM    <DIR>          ..
+28-Apr-22  07:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  609,241,317,376 bytes free
